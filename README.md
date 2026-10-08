@@ -34,17 +34,32 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 ## 📚 Les outils disponibles
 
-**Choisissez l’outil qui correspond à votre besoin.** Les liens vous mènent à sa présentation,
-aux étapes d’installation et aux exemples.
+**Deux outils pour commencer.** Choisissez votre besoin, téléchargez la skill, puis suivez son guide.
 
-| Outil | Pour quel besoin ? | Ce que vous obtenez | Liens utiles |
-|---|---|---|---|
-| **⚖️ Légistique française**<br>Droit et rédaction juridique<br>Par [Kilian Vivien](https://github.com/kilianvivien) | Rédiger ou relire un projet de loi, un décret, un arrêté ou un amendement. | Un projet rédigé en articles, des corrections expliquées ou une analyse du texte. Les corrections citent le Guide de légistique. | [Présentation et installation](https://github.com/kilianvivien/skill-legistique-fr)<br>[Exemples de résultats](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
-| **📰 Factiva Research**<br>Recherche de presse et veille<br>Par [Kilian Vivien](https://github.com/kilianvivien) | Trouver les bons mots-clés et critères pour rechercher des articles dans Factiva. | Une formule de recherche à copier-coller ; si votre assistant peut mener la recherche, une synthèse des articles effectivement consultés. | [Présentation, installation et exemples](skills/factiva-research/README.md) |
+| Outil | À quoi sert-il ? | Télécharger et découvrir |
+|:---|:---|:---|
+| **⚖️ Légistique française** | Rédiger, corriger et analyser des textes juridiques. | **[⬇ Télécharger le ZIP](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip)**<br>[Guide](https://github.com/kilianvivien/skill-legistique-fr#-installation) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
+| **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
 
-**Pour Factiva :** vous devez disposer de votre propre accès pour consulter les articles. Pour que
-l’assistant mène la recherche, il doit pouvoir agir dans votre navigateur, où vous êtes déjà
-connecté à Factiva.
+*Ces deux skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien). Les prochaines contributions afficheront également leur auteur.*
+
+> **💡 Après le téléchargement**  
+> Le ZIP est un fichier qui regroupe les éléments de la skill. Ouvrez le **Guide** pour savoir
+> comment l’ajouter à votre assistant IA : le téléchargement seul ne l’active pas.
+
+<details>
+<summary>🔎 Ce que chaque outil vous apporte</summary>
+
+**Légistique française** propose un texte rédigé en articles, des corrections expliquées ou une
+analyse juridique. Les corrections renvoient au Guide de légistique pour vous aider à comprendre
+et à vérifier les règles.
+
+**Factiva Research** prépare une formule de recherche à copier-coller dans Factiva.
+Si votre assistant peut agir dans votre navigateur et que vous êtes déjà connecté à Factiva,
+elle peut aussi mener la recherche et résumer les articles consultés.
+Vous devez disposer de votre propre accès Factiva ; la skill ne fournit pas d’abonnement.
+
+</details>
 
 <details>
 <summary>💬 Deux exemples de demandes pour commencer</summary>
