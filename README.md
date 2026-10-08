@@ -34,49 +34,31 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 ## 📚 Les outils disponibles
 
-### ⚖️ Légistique française
+**Choisissez l’outil qui correspond à votre besoin.** Les liens vous mènent à sa présentation,
+aux étapes d’installation et aux exemples.
 
-**Pour rédiger et relire des textes juridiques : projets de loi, décrets, arrêtés ou amendements.**
+| Outil | Pour quel besoin ? | Ce que vous obtenez | Liens utiles |
+|---|---|---|---|
+| **⚖️ Légistique française**<br>Droit et rédaction juridique<br>Par [Kilian Vivien](https://github.com/kilianvivien) | Rédiger ou relire un projet de loi, un décret, un arrêté ou un amendement. | Un projet rédigé en articles, des corrections expliquées ou une analyse du texte. Les corrections citent le Guide de légistique. | [Présentation et installation](https://github.com/kilianvivien/skill-legistique-fr)<br>[Exemples de résultats](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
+| **📰 Factiva Research**<br>Recherche de presse et veille<br>Par [Kilian Vivien](https://github.com/kilianvivien) | Trouver les bons mots-clés et critères pour rechercher des articles dans Factiva. | Une formule de recherche à copier-coller ; si votre assistant peut mener la recherche, une synthèse des articles effectivement consultés. | [Présentation, installation et exemples](skills/factiva-research/README.md) |
 
-Cette skill peut vous aider à :
+**Pour Factiva :** vous devez disposer de votre propre accès pour consulter les articles. Pour que
+l’assistant mène la recherche, il doit pouvoir agir dans votre navigateur, où vous êtes déjà
+connecté à Factiva.
 
-- transformer une idée ou une note en projet de texte rédigé en articles ;
-- repérer les problèmes de rédaction et proposer des corrections expliquées ;
-- examiner si le texte est nécessaire, s’il relève de la loi ou du règlement et s’il est cohérent.
+<details>
+<summary>💬 Deux exemples de demandes pour commencer</summary>
 
-Les corrections renvoient aux fiches du Guide de légistique pour vous permettre de vérifier
-la règle et de l’apprendre.
-
-**Exemple de demande :**
+**Avec Légistique française :**
 
 > Relis ce projet d’arrêté. Propose une version corrigée et explique chaque correction.
 
-**Auteur : [Kilian Vivien](https://github.com/kilianvivien)**  
-👉 [Découvrir la skill et son installation](https://github.com/kilianvivien/skill-legistique-fr) · [Voir des exemples de résultats](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples)
-
-### 📰 Factiva Research
-
-**Pour mieux rechercher des articles de presse dans la base documentaire Factiva.**
-
-Cette skill peut vous aider à :
-
-- choisir les mots-clés et les critères adaptés à votre sujet ;
-- préparer une formule de recherche à copier-coller dans Factiva ;
-- améliorer une recherche et expliquer quels critères ont été utilisés.
-
-Si votre assistant peut agir dans le navigateur et que vous êtes déjà connecté à Factiva,
-elle peut aussi mener la recherche et résumer les articles effectivement consultés.
-
-**Exemple de demande :**
+**Avec Factiva Research :**
 
 > Prépare une recherche sur la rénovation énergétique des bâtiments publics dans la presse
 > française, du 1er au 30 septembre 2026. Donne-moi la formule à copier-coller dans Factiva.
 
-**À prévoir :** votre propre accès à Factiva pour consulter les articles. La skill ne fournit
-pas d’abonnement.
-
-**Auteur : [Kilian Vivien](https://github.com/kilianvivien)**  
-👉 [Découvrir la skill, son installation et ses exemples](skills/factiva-research/README.md)
+</details>
 
 > **Le catalogue commence avec ces deux outils.** Il pourra accueillir d’autres skills pour
 > préparer une note, analyser des données, créer une présentation, travailler les langues
