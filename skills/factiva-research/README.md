@@ -6,7 +6,9 @@ Créée par [Kilian Vivien](https://github.com/kilianvivien), cette skill aide u
 exécuter lorsque les outils le permettent, affiner et documenter des recherches avancées dans Factiva.
 Elle est publiée ici à partir de l’archive `factiva-research-v3.zip` fournie par l’auteur.
 
-[Lire les instructions](SKILL.md) · [Syntaxe des requêtes](references/syntax.md) · [Méthode de recherche](references/workflow.md)
+**[⬇ Télécharger Factiva Research — ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**
+
+[Installation](#installation) · [Exemples](#exemples-de-demandes) · [Instructions](SKILL.md)
 
 ## Ce qu’elle fait
 
@@ -28,8 +30,8 @@ accès. Les possibilités de contrôle du navigateur dépendent de votre agent e
 
 ## Installation
 
-1. Téléchargez [le dépôt au format ZIP](https://github.com/kilianvivien/insp-skills-ia/archive/refs/heads/main.zip).
-2. Décompressez-le et récupérez uniquement le dossier `skills/factiva-research/`.
+1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**.
+2. Décompressez le fichier : vous obtenez le dossier `factiva-research/`.
 3. Copiez ce dossier dans le répertoire de skills indiqué par la documentation de votre agent.
 4. Vérifiez que `factiva-research/SKILL.md`, `references/` et `agents/` ont conservé leur structure.
 
