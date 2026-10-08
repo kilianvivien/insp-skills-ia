@@ -31,9 +31,14 @@ accès. Les possibilités de contrôle du navigateur dépendent de votre agent e
 ## Installation
 
 1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**.
-2. Décompressez le fichier : vous obtenez le dossier `factiva-research/`.
-3. Copiez ce dossier dans le répertoire de skills indiqué par la documentation de votre agent.
-4. Vérifiez que `factiva-research/SKILL.md`, `references/` et `agents/` ont conservé leur structure.
+2. Choisissez votre tutoriel : **[ChatGPT](../../tutoriels/chatgpt.md)** · **[Claude](../../tutoriels/claude.md)** · **[Gemini](../../tutoriels/gemini.md)** · **[Mistral Vibe](../../tutoriels/mistral-vibe.md)**.
+3. Suivez sa méthode : import d’archive, import de dossier ou adaptation selon les fonctions de votre compte.
+4. Faites le test de lecture des références proposé à la fin du guide.
+
+**Pour Mistral Vibe dans le terminal :** décompressez le ZIP, puis copiez **tout le dossier**
+`factiva-research/`, avec `SKILL.md`, `references/` et `agents/`. Le
+[tutoriel illustré par les arborescences](../../tutoriels/mistral-vibe.md) montre précisément
+où placer les quatre fichiers, sur Mac, Windows et Linux.
 
 Le dossier contient des instructions Markdown, deux fiches de référence et une configuration
 d’interface dans `agents/openai.yaml`. Il ne contient aucun script ni dépendance à installer.
