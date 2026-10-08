@@ -1,0 +1,4 @@
+interface:
+  display_name: "Factiva Research"
+  short_description: "Plan and run precise Factiva news searches"
+  default_prompt: "Use $factiva-research to investigate this topic in Factiva and report the exact query, filters, and findings."
