@@ -2,137 +2,158 @@
 
 # 🎓 INSP · Skills & compétences IA
 
-**Des outils à partager. Des méthodes à apprendre. Du jugement à exercer.**
+**Des outils à partager, pour apprendre à mieux travailler avec l’IA.**
 
-Un catalogue collaboratif pour aider les élèves de l’INSP à explorer l’intelligence artificielle,
-à développer leurs compétences et à partager des usages utiles au service public.
+Vous souhaitez préparer un texte juridique, rechercher des articles de presse ou découvrir
+de nouveaux usages de l’intelligence artificielle ? Ce catalogue vous aide à trouver des outils
+utiles et à partager les vôtres.
 
-[![Catalogue collaboratif](https://img.shields.io/badge/catalogue-collaboratif-2563eb)](#-le-catalogue)
-[![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-16a34a)](CONTRIBUTING.md)
-[![Langue : français](https://img.shields.io/badge/langue-français-8250df)](#)
+**Destiné aux élèves de l’INSP, ouvert aux contributions de tous.**
 
-[Découvrir les skills](#-le-catalogue) · [Développer ses compétences](#-les-compétences-à-développer) · [Proposer une ressource](#-un-catalogue-qui-grandit-avec-vous)
+[Découvrir les outils](#-les-outils-disponibles) · [Faire un premier essai](#-comment-commencer) · [Proposer un outil](#-vous-aussi-enrichissez-le-catalogue)
 
 </div>
 
 ---
 
-## 💡 Pourquoi ce dépôt ?
-
-Rédiger un projet de texte, préparer une note, explorer des données, comparer des sources : les
-usages de l’IA prennent tout leur sens lorsqu’ils s’appuient sur une méthode explicite et un regard
-critique. Ce dépôt rassemble des **skills réutilisables**, leurs exemples d’utilisation et les
-compétences qui permettent de s’en servir avec discernement.
-
-L’ambition : **mettre en commun ce que chacun construit et apprend**, pour que les bonnes idées
-circulent entre élèves, promotions, anciens élèves et contributeurs intéressés par l’action publique.
-
-> **Vous avez créé une skill ? Vous en avez découvert une utile ? Ajoutez-la au catalogue.**
-> Les ressources publiées ailleurs sont référencées dans leurs dépôts d’origine. Les auteurs peuvent
-> aussi proposer une skill à héberger ici, dans `skills/`, avec sa documentation et son attribution.
-
 ## 🧩 Une « skill », c’est quoi ?
 
-Une skill est un ensemble d’instructions et, selon les cas, de références ou de scripts qui guide
-un agent IA dans une tâche précise. Elle rend une méthode réutilisable : les étapes, les sources
-à consulter, les résultats attendus et les contrôles à effectuer sont documentés.
+Une **skill** est une fiche de méthode que l’on ajoute à un assistant IA pour l’aider à réaliser
+une tâche précise. Elle lui indique les étapes à suivre, les références à consulter et les points
+à vérifier. Elle peut aussi être accompagnée de documents ou de petits programmes.
 
-La **skill est l’outil** ; la **compétence est ce que vous apprenez à maîtriser** : cadrer une demande,
-évaluer une réponse, vérifier une source ou expliquer un choix. Les deux se complètent.
+**Par exemple :** la skill de légistique aide l’IA à relire un projet de décret en s’appuyant
+sur les règles de rédaction des textes juridiques.
 
-Les modalités d’installation et les agents compatibles varient selon les ressources. Suivez le
-README du dépôt d’origine avant de les utiliser.
+Vous n’avez pas besoin de savoir coder pour parcourir ce catalogue. Pour utiliser une skill,
+il faut toutefois un assistant IA qui accepte ce type d’outil. Les possibilités et les étapes
+d’installation sont expliquées sur la page de chaque skill.
 
-## 📚 Le catalogue
+Une skill peut vous aider à réaliser un travail, mais aussi à **comprendre la méthode**.
+Vous gardez la responsabilité de relire le résultat et de vérifier les informations.
 
-### ⚖️ Droit & légistique
+## 📚 Les outils disponibles
 
-| Skill | À quoi sert-elle ? | Ce qu’elle permet de travailler | Auteur & accès |
-|---|---|---|---|
-| **Légistique française · `legistique-fr`** | Transformer une intention en projet de texte normatif ; relire et corriger un projet ; analyser sa nécessité, son niveau et sa portée. Les corrections renvoient aux fiches du Guide de légistique. | Structurer un texte, comprendre les règles de rédaction, repérer les points à arbitrer et vérifier les références. | **[Kilian Vivien](https://github.com/kilianvivien)** · [Dépôt et installation](https://github.com/kilianvivien/skill-legistique-fr) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
+### ⚖️ Légistique française
 
-**Pour commencer avec la légistique :** choisissez un exemple du dépôt, lisez le résultat et les
-explications, puis essayez la skill sur un cas fictif. Comparez les corrections proposées avec les
-fiches citées et identifiez les décisions qui vous reviennent.
+**Pour rédiger et relire des textes juridiques : projets de loi, décrets, arrêtés ou amendements.**
 
-### 📰 Recherche documentaire & veille
+Cette skill peut vous aider à :
 
-| Skill | À quoi sert-elle ? | Ce qu’elle permet de travailler | Auteur & accès |
-|---|---|---|---|
-| **Factiva Research · `factiva-research`** | Préparer, exécuter lorsque le navigateur est contrôlable, affiner et documenter des recherches avancées dans Factiva ; générer une requête booléenne à copier-coller lorsque l’exécution est indisponible. | Cadrer une recherche, construire une équation de recherche, évaluer la pertinence des résultats et documenter une méthode reproductible. | **[Kilian Vivien](https://github.com/kilianvivien)** · [Présentation et installation](skills/factiva-research/) · [Instructions](skills/factiva-research/SKILL.md) |
+- transformer une idée ou une note en projet de texte rédigé en articles ;
+- repérer les problèmes de rédaction et proposer des corrections expliquées ;
+- examiner si le texte est nécessaire, s’il relève de la loi ou du règlement et s’il est cohérent.
 
-**Pour commencer avec Factiva Research :** choisissez un sujet, une langue et une période, puis
-demandez une requête à copier-coller. Pour exécuter la recherche avec l’agent, utilisez votre propre
-accès Factiva et une session authentifiée dans un navigateur contrôlable. Retrouvez les exemples
-et les prérequis dans la [fiche de la skill](skills/factiva-research/README.md).
+Les corrections renvoient aux fiches du Guide de légistique pour vous permettre de vérifier
+la règle et de l’apprendre.
 
-> Le catalogue rassemble ses deux premières skills. Les prochaines rubriques seront ouvertes
-> au fil des ressources proposées : rédaction administrative, analyse de données, évaluation des
-> politiques publiques, présentations, langues ou automatisation.
+**Exemple de demande :**
 
-## 🧭 Les compétences à développer
+> Relis ce projet d’arrêté. Propose une version corrigée et explique chaque correction.
 
-Ce parcours constitue une proposition de travail pour la communauté ; chaque ressource ajoutée peut
-venir l’enrichir.
+**Auteur : [Kilian Vivien](https://github.com/kilianvivien)**  
+👉 [Découvrir la skill et son installation](https://github.com/kilianvivien/skill-legistique-fr) · [Voir des exemples de résultats](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples)
 
-| Compétence | Un exercice concret | Le réflexe à acquérir |
-|---|---|---|
-| **Cadrer une demande** | Décrire le contexte, le destinataire, les contraintes et le livrable attendu. | Définir ce qu’est un résultat utile avant de lancer l’agent. |
-| **Travailler avec des sources** | Demander les références, ouvrir les documents cités et vérifier les passages pertinents. | Distinguer une affirmation plausible d’une information vérifiée. |
-| **Relire et évaluer** | Comparer une production IA avec un corrigé, une grille ou un travail personnel. | Repérer les omissions, les erreurs et les hypothèses implicites. |
-| **Analyser des données** | Refaire un calcul et contrôler les unités, les dates et le périmètre. | Relier chaque conclusion aux données qui la soutiennent. |
-| **Protéger les informations** | S’exercer avec des données publiques, fictives ou correctement anonymisées. | Choisir les informations et l’outil adaptés au contexte. |
-| **Documenter et transmettre** | Publier une méthode, un exemple et les limites rencontrées. | Rendre son travail compréhensible et réutilisable par d’autres. |
+### 📰 Factiva Research
 
-## 🚀 Un premier essai en quatre étapes
+**Pour mieux rechercher des articles de presse dans la base documentaire Factiva.**
 
-1. **Choisissez une tâche précise** et une skill adaptée dans le catalogue.
-2. **Consultez le dépôt d’origine** : installation, compatibilité, exemples et licence.
-3. **Testez sur un cas public ou fictif**, puis vérifiez le résultat et les sources.
-4. **Partagez votre retour** : ce qui fonctionne, ce qui manque et ce que vous avez appris.
+Cette skill peut vous aider à :
 
-## 🤝 Un catalogue qui grandit avec vous
+- choisir les mots-clés et les critères adaptés à votre sujet ;
+- préparer une formule de recherche à copier-coller dans Factiva ;
+- améliorer une recherche et expliquer quels critères ont été utilisés.
 
-**Les skills d’autres utilisateurs sont les bienvenues.** Vous pouvez proposer votre propre
-ressource ou référencer celle d’un autre auteur en conservant son attribution.
+Si votre assistant peut agir dans le navigateur et que vous êtes déjà connecté à Factiva,
+elle peut aussi mener la recherche et résumer les articles effectivement consultés.
 
-- **Sans modifier de fichier :** [ouvrez une proposition de skill](https://github.com/kilianvivien/insp-skills-ia/issues/new?template=proposer-une-skill.md).
-- **Avec une pull request :** ajoutez une entrée au tableau dans la rubrique appropriée, ou créez
-  une rubrique si nécessaire.
-- **Avec un retour d’expérience :** [ouvrez une issue](https://github.com/kilianvivien/insp-skills-ia/issues/new) pour partager un exemple, signaler un lien cassé ou proposer une amélioration.
+**Exemple de demande :**
 
-Pour chaque skill, indiquez **le lien d’origine, l’auteur, l’usage, les compétences travaillées,
-les agents compatibles s’ils sont documentés et les limites connues**. Un exemple avec des données
-fictives ou publiques aide les autres à se lancer.
+> Prépare une recherche sur la rénovation énergétique des bâtiments publics dans la presse
+> française, du 1er au 30 septembre 2026. Donne-moi la formule à copier-coller dans Factiva.
 
-Les propositions sont relues avant leur intégration. Le référencement ne vaut pas certification :
-les retours d’usage permettent d’améliorer progressivement le catalogue.
+**À prévoir :** votre propre accès à Factiva pour consulter les articles. La skill ne fournit
+pas d’abonnement.
 
-👉 **[Lire le guide de contribution](CONTRIBUTING.md)**
+**Auteur : [Kilian Vivien](https://github.com/kilianvivien)**  
+👉 [Découvrir la skill, son installation et ses exemples](skills/factiva-research/README.md)
 
-## 🔎 Quelques réflexes pour bien travailler
+> **Le catalogue commence avec ces deux outils.** Il pourra accueillir d’autres skills pour
+> préparer une note, analyser des données, créer une présentation, travailler les langues
+> ou explorer d’autres usages utiles au service public.
 
-L’IA peut aider à préparer, explorer et relire un travail. **Vous restez responsable de la
-vérification et du résultat final.** Contrôlez les sources, les calculs, les dates et les références
-avant de réutiliser une production. Pour un travail de formation, respectez les consignes de
-l’exercice et explicitez l’usage de l’IA lorsque cela est demandé.
+## 🚀 Comment commencer ?
 
-Utilisez les outils autorisés dans votre contexte et évitez de transmettre des informations
-confidentielles ou des données personnelles à un service inadapté. Avant d’installer une skill,
-lisez ses instructions et, si elle en contient, ses scripts et les accès qu’elle demande.
+1. **Choisissez un besoin concret.** Par exemple : relire un arrêté ou trouver des articles sur un sujet.
+2. **Ouvrez la page de la skill.** Regardez quel assistant peut l’utiliser et suivez les explications d’installation.
+3. **Faites un essai simple.** Utilisez un exemple fourni, un document public ou un cas fictif. Précisez ce que vous attendez.
+4. **Relisez le résultat.** Vérifiez les sources et les corrections, puis adaptez la proposition à votre besoin.
+
+**Vous découvrez les skills ?** Commencez par lire les exemples : ils permettent de voir ce que
+l’outil apporte avant de l’installer. Télécharger une skill ne suffit pas à la rendre active
+dans votre assistant ; suivez les étapes indiquées sur sa page.
+
+## 🧭 Ce que vous pouvez apprendre
+
+Au fil des essais, vous pouvez développer quelques réflexes utiles :
+
+| Savoir-faire | Un réflexe simple |
+|---|---|
+| **Bien formuler sa demande** | Dire ce que vous voulez obtenir, pour qui et dans quel contexte. |
+| **Vérifier une information** | Ouvrir la source citée et vérifier qu’elle confirme la réponse. |
+| **Évaluer une réponse de l’IA** | Repérer ce qui manque, ce qui est incertain et ce qui doit être corrigé. |
+| **Contrôler des chiffres** | Refaire les calculs et vérifier les dates et les unités. |
+| **Partager une méthode** | Expliquer ce que vous avez essayé, ce qui fonctionne et les limites rencontrées. |
+
+## 🤝 Vous aussi, enrichissez le catalogue
+
+**Vous avez créé une skill ou découvert celle d’un autre utilisateur ? Proposez-la !**
+Vous pouvez aussi partager un exemple d’utilisation ou signaler une erreur.
+
+Le plus simple est de **[remplir le formulaire de proposition](https://github.com/kilianvivien/insp-skills-ia/issues/new?template=proposer-une-skill.md)**.
+Connectez-vous à GitHub, indiquez le lien de l’outil, son auteur et ce qu’il permet de faire.
+Si vous ne connaissez pas certains détails, précisez-le simplement.
+
+**Pas besoin de modifier des fichiers ni de savoir programmer.** Votre proposition sera relue
+avant d’être ajoutée au catalogue.
+
+Les outils déjà publiés ailleurs restent accessibles par un lien vers la page de leur auteur.
+Si vous êtes l’auteur, vous pouvez aussi proposer de publier votre skill directement ici.
+
+👉 [Partager un retour ou signaler un problème](https://github.com/kilianvivien/insp-skills-ia/issues/new) · [Lire le guide pour contribuer](CONTRIBUTING.md)
+
+<details>
+<summary>Quelques mots que vous verrez sur GitHub</summary>
+
+- **Dépôt** : l’espace où sont regroupés les fichiers d’un projet. Ce catalogue est un dépôt.
+- **README** : la page de présentation que vous êtes en train de lire.
+- **Issue** : une proposition, une question ou un problème transmis via un formulaire.
+- **Pull request** : une modification de fichiers proposée à l’auteur du dépôt. C’est une autre façon de contribuer, si vous connaissez GitHub.
+
+</details>
+
+## 🔎 Quelques précautions utiles
+
+**Vérifiez toujours le résultat avant de l’utiliser.** Une réponse convaincante peut contenir
+une erreur, une source inexistante ou une information dépassée. Un outil présent dans ce catalogue
+n’est pas pour autant certifié.
+
+Pour vos essais, utilisez des documents publics ou des cas fictifs. Respectez les consignes de
+votre formation et les règles de votre organisation sur les outils autorisés et les informations
+que vous pouvez leur transmettre.
 
 ---
 
-**Initiative indépendante destinée aux élèves de l’Institut national du service public.** Ce dépôt
-ne constitue pas une publication officielle de l’INSP et n’implique aucun soutien institutionnel.
+**Une initiative indépendante pour les élèves de l’Institut national du service public.**
+Ce catalogue n’est pas une publication officielle de l’INSP.
 
-La documentation originale du catalogue est proposée sous [licence MIT](LICENSE). Les skills
-hébergées et les ressources externes conservent leurs conditions propres, précisées dans leur
-documentation. L’archive de Factiva Research ne comporte pas de licence explicite ; la licence du
-catalogue ne lui est pas attribuée automatiquement.
+Les textes de présentation du catalogue sont proposés sous [licence MIT](LICENSE), qui précise
+leurs conditions de réutilisation. Chaque skill conserve ses propres conditions. L’archive fournie
+pour Factiva Research ne précise pas de licence ; la licence du catalogue ne lui est pas appliquée
+automatiquement.
 
 <div align="center">
 
-**Une skill utile à partager ? [La prochaine contribution peut être la vôtre.](https://github.com/kilianvivien/insp-skills-ia/issues/new?template=proposer-une-skill.md)**
+**Un outil utile mérite d’être partagé. [Proposez le vôtre !](https://github.com/kilianvivien/insp-skills-ia/issues/new?template=proposer-une-skill.md)**
 
 </div>
