@@ -28,8 +28,8 @@ L’ambition : **mettre en commun ce que chacun construit et apprend**, pour que
 circulent entre élèves, promotions, anciens élèves et contributeurs intéressés par l’action publique.
 
 > **Vous avez créé une skill ? Vous en avez découvert une utile ? Ajoutez-la au catalogue.**
-> Les ressources restent dans les dépôts de leurs auteurs : nous les référençons, les décrivons et
-> partageons les retours d’expérience.
+> Les ressources publiées ailleurs sont référencées dans leurs dépôts d’origine. Les auteurs peuvent
+> aussi proposer une skill à héberger ici, dans `skills/`, avec sa documentation et son attribution.
 
 ## 🧩 Une « skill », c’est quoi ?
 
@@ -55,9 +55,20 @@ README du dépôt d’origine avant de les utiliser.
 explications, puis essayez la skill sur un cas fictif. Comparez les corrections proposées avec les
 fiches citées et identifiez les décisions qui vous reviennent.
 
-> Le catalogue démarre avec cette première contribution. Les prochaines rubriques seront ouvertes
-> au fil des ressources proposées : rédaction administrative, recherche documentaire, analyse de
-> données, évaluation des politiques publiques, présentations, langues ou automatisation.
+### 📰 Recherche documentaire & veille
+
+| Skill | À quoi sert-elle ? | Ce qu’elle permet de travailler | Auteur & accès |
+|---|---|---|---|
+| **Factiva Research · `factiva-research`** | Préparer, exécuter lorsque le navigateur est contrôlable, affiner et documenter des recherches avancées dans Factiva ; générer une requête booléenne à copier-coller lorsque l’exécution est indisponible. | Cadrer une recherche, construire une équation de recherche, évaluer la pertinence des résultats et documenter une méthode reproductible. | **[Kilian Vivien](https://github.com/kilianvivien)** · [Présentation et installation](skills/factiva-research/) · [Instructions](skills/factiva-research/SKILL.md) |
+
+**Pour commencer avec Factiva Research :** choisissez un sujet, une langue et une période, puis
+demandez une requête à copier-coller. Pour exécuter la recherche avec l’agent, utilisez votre propre
+accès Factiva et une session authentifiée dans un navigateur contrôlable. Retrouvez les exemples
+et les prérequis dans la [fiche de la skill](skills/factiva-research/README.md).
+
+> Le catalogue rassemble ses deux premières skills. Les prochaines rubriques seront ouvertes
+> au fil des ressources proposées : rédaction administrative, analyse de données, évaluation des
+> politiques publiques, présentations, langues ou automatisation.
 
 ## 🧭 Les compétences à développer
 
@@ -115,9 +126,10 @@ lisez ses instructions et, si elle en contient, ses scripts et les accès qu’e
 **Initiative indépendante destinée aux élèves de l’Institut national du service public.** Ce dépôt
 ne constitue pas une publication officielle de l’INSP et n’implique aucun soutien institutionnel.
 
-Le contenu original de ce dépôt est proposé sous [licence MIT](LICENSE). Les skills et ressources
-externes conservent leurs licences respectives ; leur référencement ne modifie pas leurs conditions
-d’utilisation.
+La documentation originale du catalogue est proposée sous [licence MIT](LICENSE). Les skills
+hébergées et les ressources externes conservent leurs conditions propres, précisées dans leur
+documentation. L’archive de Factiva Research ne comporte pas de licence explicite ; la licence du
+catalogue ne lui est pas attribuée automatiquement.
 
 <div align="center">
 
