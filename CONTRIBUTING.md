@@ -31,7 +31,13 @@ Utilisez la rubrique la plus adaptée ou créez-en une nouvelle. Voici le format
 ```
 
 Conservez les liens vers le dépôt d’origine : il reste la référence pour l’installation, les
-versions et la licence. Ne recopiez pas une skill dans ce dépôt pour la référencer.
+versions et la licence.
+
+Si vous êtes l’auteur et souhaitez héberger votre skill ici, proposez son dossier dans
+`skills/identifiant-de-la-skill/`, avec un `SKILL.md`, les références nécessaires et un README
+présentant son installation, ses prérequis, ses exemples et ses limites. Précisez sa licence ;
+si elle n’est pas indiquée, signalez-le. Ne recopiez pas la skill d’un autre auteur sans disposer
+des droits nécessaires.
 
 ## Ce qui aide à la relecture
 
@@ -53,5 +59,6 @@ Utilisez uniquement des cas publics, fictifs ou correctement anonymisés. N’in
 personnelles, de documents internes ni d’informations confidentielles dans les contributions.
 Respectez les auteurs et formulez des retours précis et constructifs.
 
-Le contenu original que vous proposez à ce dépôt relève de sa licence MIT ; les ressources liées
-conservent leur propre licence et leur attribution.
+Les contributions à la documentation du catalogue relèvent de sa licence MIT. Les skills hébergées
+et les ressources liées conservent leurs conditions propres et leur attribution ; documentez-les
+dans la fiche de chaque ressource.
