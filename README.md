@@ -10,7 +10,7 @@ utiles et à partager les vôtres.
 
 **Destiné aux élèves de l’INSP, ouvert aux contributions de tous.**
 
-[Découvrir les outils](#-les-outils-disponibles) · [Faire un premier essai](#-comment-commencer) · [Proposer un outil](#-vous-aussi-enrichissez-le-catalogue)
+[Découvrir les outils](#-les-outils-disponibles) · [Installer une skill](#installer-une-skill) · [Faire un premier essai](#-comment-commencer-) · [Proposer un outil](#-vous-aussi-enrichissez-le-catalogue)
 
 </div>
 
@@ -45,7 +45,7 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 > **💡 Après le téléchargement**  
 > Le ZIP est un fichier qui regroupe les éléments de la skill. Ouvrez le **Guide** pour savoir
-> comment l’ajouter à votre assistant IA : le téléchargement seul ne l’active pas.
+> comment l’ajouter à votre assistant IA, ou suivez les [tutoriels par outil](tutoriels/README.md). Le téléchargement seul ne l’active pas.
 
 <details>
 <summary>🔎 Ce que chaque outil vous apporte</summary>
@@ -79,10 +79,27 @@ Vous devez disposer de votre propre accès Factiva ; la skill ne fournit pas d�
 > préparer une note, analyser des données, créer une présentation, travailler les langues
 > ou explorer d’autres usages utiles au service public.
 
+<a id="installer-une-skill"></a>
+
+## 🛠️ Installer votre skill
+
+**Un tutoriel pour chaque outil, avec les limites à connaître.** Choisissez celui que vous utilisez :
+
+| Votre outil | Tutoriel en français |
+|:---|:---|
+| **ChatGPT** | [Import de skill si disponible, ou adaptation dans un Projet](tutoriels/chatgpt.md) |
+| **Claude** | [Importer le ZIP et activer la skill](tutoriels/claude.md) |
+| **Gemini** | [Importer une compétence, ou utiliser un Gem](tutoriels/gemini.md) |
+| **Mistral Vibe — terminal** | [Copier le dossier complet, avec toutes ses références](tutoriels/mistral-vibe.md) |
+
+👉 [Préparer les fichiers](tutoriels/preparer-les-fichiers.md) · [Comparer les méthodes et les conditions d’accès](tutoriels/README.md)
+
+*Guides vérifiés dans les documentations officielles le 8 octobre 2026. La disponibilité varie selon le compte et l’organisation.*
+
 ## 🚀 Comment commencer ?
 
 1. **Choisissez un besoin concret.** Par exemple : relire un arrêté ou trouver des articles sur un sujet.
-2. **Ouvrez la page de la skill.** Regardez quel assistant peut l’utiliser et suivez les explications d’installation.
+2. **Suivez le tutoriel de votre outil.** Ouvrez les [guides d’installation](tutoriels/README.md) pour vérifier les conditions et les étapes.
 3. **Faites un essai simple.** Utilisez un exemple fourni, un document public ou un cas fictif. Précisez ce que vous attendez.
 4. **Relisez le résultat.** Vérifiez les sources et les corrections, puis adaptez la proposition à votre besoin.
 
