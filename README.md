@@ -34,14 +34,15 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 ## 📚 Les outils disponibles
 
-**Deux outils pour commencer.** Choisissez votre besoin, téléchargez la skill, puis suivez son guide.
+**Trois outils pour commencer.** Choisissez votre besoin, téléchargez la skill, puis suivez son guide.
 
 | Outil | À quoi sert-il ? | Télécharger et découvrir |
 |:---|:---|:---|
 | **⚖️ Légistique française** | Rédiger, corriger et analyser des textes juridiques. | **[⬇ Télécharger le ZIP](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip)**<br>[Guide](https://github.com/kilianvivien/skill-legistique-fr#-installation) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
 | **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
+| **🏛️ Cas pratiques RH** | Résoudre, corriger et s’entraîner sur les cas pratiques RH et de management public, avec le cours INSP et Légifrance. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**<br>[Guide](skills/cas-pratique-rh/README.md#installation) · [Exemples](skills/cas-pratique-rh/README.md#exemples-de-demandes) |
 
-*Ces deux skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien). Les prochaines contributions afficheront également leur auteur.*
+*Ces skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien) ; Cas pratiques RH est adaptée d’un prompt de Faustin Chabagno. Les prochaines contributions afficheront également leur auteur.*
 
 > **💡 Après le téléchargement**  
 > Le ZIP est un fichier qui regroupe les éléments de la skill. Ouvrez le **Guide** pour savoir
@@ -59,10 +60,14 @@ Si votre assistant peut agir dans votre navigateur et que vous êtes déjà conn
 elle peut aussi mener la recherche et résumer les articles consultés.
 Vous devez disposer de votre propre accès Factiva ; la skill ne fournit pas d’abonnement.
 
+**Cas pratiques RH** propose une analyse complète, une version chronométrée, un plan d’oral, une
+correction de copie ou un cas d’entraînement. Chaque règle est citée avec sa page du cours ou son
+lien Légifrance. Le texte du cours INSP n’est pas fourni : chaque élève l’ajoute à partir de ses PDF.
+
 </details>
 
 <details>
-<summary>💬 Deux exemples de demandes pour commencer</summary>
+<summary>💬 Trois exemples de demandes pour commencer</summary>
 
 **Avec Légistique française :**
 
@@ -73,9 +78,13 @@ Vous devez disposer de votre propre accès Factiva ; la skill ne fournit pas d�
 > Prépare une recherche sur la rénovation énergétique des bâtiments publics dans la presse
 > française, du 1er au 30 septembre 2026. Donne-moi la formule à copier-coller dans Factiva.
 
+**Avec Cas pratiques RH :**
+
+> Voici un cas pratique RH. Traite-le en version chronométrée de 600 mots.
+
 </details>
 
-> **Le catalogue commence avec ces deux outils.** Il pourra accueillir d’autres skills pour
+> **Le catalogue commence avec ces trois outils.** Il pourra accueillir d’autres skills pour
 > préparer une note, analyser des données, créer une présentation, travailler les langues
 > ou explorer d’autres usages utiles au service public.
 
@@ -162,9 +171,9 @@ que vous pouvez leur transmettre.
 Ce catalogue n’est pas une publication officielle de l’INSP.
 
 Les textes de présentation du catalogue sont proposés sous [licence MIT](LICENSE), qui précise
-leurs conditions de réutilisation. Chaque skill conserve ses propres conditions. L’archive fournie
-pour Factiva Research ne précise pas de licence ; la licence du catalogue ne lui est pas appliquée
-automatiquement.
+leurs conditions de réutilisation. Chaque skill conserve ses propres conditions. Les archives fournies
+pour Factiva Research et Cas pratiques RH ne précisent pas de licence ; la licence du catalogue ne
+leur est pas appliquée automatiquement.
 
 <div align="center">
 

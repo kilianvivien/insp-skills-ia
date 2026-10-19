@@ -1,0 +1,856 @@
+[
+ {
+  "chapitre": 1,
+  "titre": "L'agent public",
+  "pages": 182,
+  "cas": [
+   {
+    "cas": 1,
+    "titre": "Grade et emploi : le cas d'une demande d'augmentation"
+   },
+   {
+    "cas": 2,
+    "titre": "L'agent et le service : le cas d'un départ inopiné"
+   },
+   {
+    "cas": 3,
+    "titre": "L'agent et le service : le cas d'un nouveau régime indemnitaire"
+   },
+   {
+    "cas": 4,
+    "titre": "L'agent et le service : le cas du décès d'un agent"
+   },
+   {
+    "cas": 5,
+    "titre": "Le service et les agents : le cas de la création d'un bureau en administration centrale"
+   },
+   {
+    "cas": 6,
+    "titre": "L'accès aux emplois de direction : le cas de l'instauration d'une revue des cadres"
+   }
+  ],
+  "lecons": [
+   {
+    "lecon": 1,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 1,
+    "debut": 3,
+    "fin": 5
+   },
+   {
+    "lecon": 2,
+    "titre": "Catégories, corps, grades : la construction statutaire interne de la fonction publique",
+    "cas": 1,
+    "debut": 6,
+    "fin": 19
+   },
+   {
+    "lecon": 3,
+    "titre": "Définition de la rémunération",
+    "cas": 1,
+    "debut": 20,
+    "fin": 35
+   },
+   {
+    "lecon": 4,
+    "titre": "Difficile réconciliation du grade et de l'emploi",
+    "cas": 1,
+    "debut": 36,
+    "fin": 42
+   },
+   {
+    "lecon": 5,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 2,
+    "debut": 43,
+    "fin": 44
+   },
+   {
+    "lecon": 6,
+    "titre": "Possibilités de remplacement d'un agent",
+    "cas": 2,
+    "debut": 45,
+    "fin": 61
+   },
+   {
+    "lecon": 7,
+    "titre": "Modalités de recrutement",
+    "cas": 2,
+    "debut": 62,
+    "fin": 79
+   },
+   {
+    "lecon": 8,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 3,
+    "debut": 80,
+    "fin": 94
+   },
+   {
+    "lecon": 9,
+    "titre": "Régimes indemnitaires",
+    "cas": 3,
+    "debut": 95,
+    "fin": 108
+   },
+   {
+    "lecon": 10,
+    "titre": "Processus et méthode possibles pour le passage au RIFSEEP",
+    "cas": 3,
+    "debut": 109,
+    "fin": 113
+   },
+   {
+    "lecon": 11,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 4,
+    "debut": 114,
+    "fin": 115
+   },
+   {
+    "lecon": 12,
+    "titre": "Réactions et usages en matière de deuil",
+    "cas": 4,
+    "debut": 116,
+    "fin": 119
+   },
+   {
+    "lecon": 13,
+    "titre": "Droit statutaire et dispositifs d'action sociale",
+    "cas": 4,
+    "debut": 120,
+    "fin": 134
+   },
+   {
+    "lecon": 14,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 5,
+    "debut": 135,
+    "fin": 137
+   },
+   {
+    "lecon": 15,
+    "titre": "Règles juridiques d'organisation des services",
+    "cas": 5,
+    "debut": 138,
+    "fin": 140
+   },
+   {
+    "lecon": 16,
+    "titre": "Consultations obligatoires préalables",
+    "cas": 5,
+    "debut": 141,
+    "fin": 145
+   },
+   {
+    "lecon": 17,
+    "titre": "Association des personnels et mise en œuvre du projet",
+    "cas": 5,
+    "debut": 146,
+    "fin": 157
+   },
+   {
+    "lecon": 18,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 6,
+    "debut": 158,
+    "fin": 160
+   },
+   {
+    "lecon": 19,
+    "titre": "Cadre juridique des nominations",
+    "cas": 6,
+    "debut": 161,
+    "fin": 171
+   },
+   {
+    "lecon": 20,
+    "titre": "Leviers d'accompagnement des parcours",
+    "cas": 6,
+    "debut": 172,
+    "fin": 178
+   },
+   {
+    "lecon": 21,
+    "titre": "Liste des abréviations",
+    "cas": 0,
+    "debut": 179,
+    "fin": 182
+   }
+  ]
+ },
+ {
+  "chapitre": 2,
+  "titre": "Le management au quotidien",
+  "pages": 221,
+  "cas": [
+   {
+    "cas": 1,
+    "titre": "Liberté d'expression et devoir de réserve : utilisation des réseaux sociaux par un agent"
+   },
+   {
+    "cas": 2,
+    "titre": "Laïcité, neutralité religieuse : assurer le respect de ces principes"
+   },
+   {
+    "cas": 3,
+    "titre": "Les conditions de travail : le cas des tensions dans un service"
+   },
+   {
+    "cas": 4,
+    "titre": "Le temps de travail : le cas des agents en temps partiel, des arrêts maladie et des cet"
+   },
+   {
+    "cas": 5,
+    "titre": "Les situations complexes : le cas du recrutement d'un travailleur handicapé"
+   },
+   {
+    "cas": 6,
+    "titre": "Les situations complexes : le cas du télétravail"
+   },
+   {
+    "cas": 7,
+    "titre": "Le dialogue social : le cas de la dégradation du climat social dans un service"
+   },
+   {
+    "cas": 8,
+    "titre": "Le dialogue social : la gestion du droit de grève"
+   }
+  ],
+  "lecons": [
+   {
+    "lecon": 1,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 1,
+    "debut": 4,
+    "fin": 6
+   },
+   {
+    "lecon": 2,
+    "titre": "Rappel du cadre juridique",
+    "cas": 1,
+    "debut": 7,
+    "fin": 12
+   },
+   {
+    "lecon": 3,
+    "titre": "Modalités d'action",
+    "cas": 1,
+    "debut": 13,
+    "fin": 34
+   },
+   {
+    "lecon": 4,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 2,
+    "debut": 35,
+    "fin": 38
+   },
+   {
+    "lecon": 5,
+    "titre": "Rappel du cadre juridique",
+    "cas": 2,
+    "debut": 39,
+    "fin": 49
+   },
+   {
+    "lecon": 6,
+    "titre": "Modalités d'action",
+    "cas": 2,
+    "debut": 50,
+    "fin": 56
+   },
+   {
+    "lecon": 7,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 3,
+    "debut": 57,
+    "fin": 60
+   },
+   {
+    "lecon": 8,
+    "titre": "Responsabilités et comportement du manager",
+    "cas": 3,
+    "debut": 61,
+    "fin": 66
+   },
+   {
+    "lecon": 9,
+    "titre": "Modalités d'action",
+    "cas": 3,
+    "debut": 67,
+    "fin": 74
+   },
+   {
+    "lecon": 10,
+    "titre": "Climat social, RPS et QVT",
+    "cas": 3,
+    "debut": 75,
+    "fin": 90
+   },
+   {
+    "lecon": 11,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 4,
+    "debut": 91,
+    "fin": 92
+   },
+   {
+    "lecon": 12,
+    "titre": "Les régimes de travail dans la fonction publique",
+    "cas": 4,
+    "debut": 93,
+    "fin": 99
+   },
+   {
+    "lecon": 13,
+    "titre": "Les congés annuels",
+    "cas": 4,
+    "debut": 100,
+    "fin": 112
+   },
+   {
+    "lecon": 14,
+    "titre": "Les congés de maladie",
+    "cas": 4,
+    "debut": 113,
+    "fin": 121
+   },
+   {
+    "lecon": 15,
+    "titre": "Le congé parental",
+    "cas": 4,
+    "debut": 122,
+    "fin": 128
+   },
+   {
+    "lecon": 16,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 5,
+    "debut": 129,
+    "fin": 130
+   },
+   {
+    "lecon": 17,
+    "titre": "Obligations des employeurs et conditions d'accueil et d'intégration",
+    "cas": 5,
+    "debut": 131,
+    "fin": 144
+   },
+   {
+    "lecon": 18,
+    "titre": "Droits et titularisation",
+    "cas": 5,
+    "debut": 145,
+    "fin": 150
+   },
+   {
+    "lecon": 19,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 6,
+    "debut": 151,
+    "fin": 153
+   },
+   {
+    "lecon": 20,
+    "titre": "Cadre juridique",
+    "cas": 6,
+    "debut": 154,
+    "fin": 166
+   },
+   {
+    "lecon": 21,
+    "titre": "Évaluer une demande de télétravail",
+    "cas": 6,
+    "debut": 167,
+    "fin": 171
+   },
+   {
+    "lecon": 22,
+    "titre": "Connaître et prévenir les risques",
+    "cas": 6,
+    "debut": 172,
+    "fin": 181
+   },
+   {
+    "lecon": 23,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 7,
+    "debut": 182,
+    "fin": 183
+   },
+   {
+    "lecon": 24,
+    "titre": "Cadre et modalités du dialogue social",
+    "cas": 7,
+    "debut": 184,
+    "fin": 193
+   },
+   {
+    "lecon": 25,
+    "titre": "Le dialogue social en pratique",
+    "cas": 7,
+    "debut": 194,
+    "fin": 198
+   },
+   {
+    "lecon": 26,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 8,
+    "debut": 199,
+    "fin": 200
+   },
+   {
+    "lecon": 27,
+    "titre": "La réglementation du droit de grève",
+    "cas": 8,
+    "debut": 201,
+    "fin": 216
+   },
+   {
+    "lecon": 28,
+    "titre": "La gestion d'un service dans le cadre d'une grève",
+    "cas": 8,
+    "debut": 217,
+    "fin": 220
+   },
+   {
+    "lecon": 29,
+    "titre": "Fin de chapitre",
+    "cas": 0,
+    "debut": 221,
+    "fin": 221
+   }
+  ]
+ },
+ {
+  "chapitre": 3,
+  "titre": "Le management en situation de crise",
+  "pages": 146,
+  "cas": [
+   {
+    "cas": 1,
+    "titre": "La gestion d'une crise interne : le cas d'un conflit entre agents"
+   },
+   {
+    "cas": 2,
+    "titre": "La gestion d'une crise interne : le cas des recours d'un agent contre son administration"
+   },
+   {
+    "cas": 3,
+    "titre": "La gestion d'une crise interne : le cas du harcèlement"
+   },
+   {
+    "cas": 4,
+    "titre": "La gestion d'une crise externe : responsabilités des agents dans leurs relations avec les usagers"
+   }
+  ],
+  "lecons": [
+   {
+    "lecon": 1,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 1,
+    "debut": 3,
+    "fin": 4
+   },
+   {
+    "lecon": 2,
+    "titre": "Droit et sanctions",
+    "cas": 1,
+    "debut": 5,
+    "fin": 15
+   },
+   {
+    "lecon": 3,
+    "titre": "Actions suite à un dépôt de plainte",
+    "cas": 1,
+    "debut": 16,
+    "fin": 25
+   },
+   {
+    "lecon": 4,
+    "titre": "Preuves, sanctions et protection",
+    "cas": 1,
+    "debut": 26,
+    "fin": 33
+   },
+   {
+    "lecon": 5,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 2,
+    "debut": 34,
+    "fin": 35
+   },
+   {
+    "lecon": 6,
+    "titre": "Voies de recours administratives",
+    "cas": 2,
+    "debut": 36,
+    "fin": 41
+   },
+   {
+    "lecon": 7,
+    "titre": "Recours contentieux",
+    "cas": 2,
+    "debut": 42,
+    "fin": 60
+   },
+   {
+    "lecon": 8,
+    "titre": "Sanctions disciplinaires",
+    "cas": 2,
+    "debut": 61,
+    "fin": 76
+   },
+   {
+    "lecon": 9,
+    "titre": "Spécificité des recours en matière de sanctions",
+    "cas": 2,
+    "debut": 77,
+    "fin": 82
+   },
+   {
+    "lecon": 10,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 3,
+    "debut": 83,
+    "fin": 86
+   },
+   {
+    "lecon": 11,
+    "titre": "Cadre juridique",
+    "cas": 3,
+    "debut": 87,
+    "fin": 95
+   },
+   {
+    "lecon": 12,
+    "titre": "Modalités d'action",
+    "cas": 3,
+    "debut": 96,
+    "fin": 107
+   },
+   {
+    "lecon": 13,
+    "titre": "Rappels sur le droit de retrait et la suspension",
+    "cas": 3,
+    "debut": 108,
+    "fin": 112
+   },
+   {
+    "lecon": 14,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 4,
+    "debut": 113,
+    "fin": 115
+   },
+   {
+    "lecon": 15,
+    "titre": "Les actions en référé",
+    "cas": 4,
+    "debut": 116,
+    "fin": 119
+   },
+   {
+    "lecon": 16,
+    "titre": "La responsabilité pour faute personnelle et pour faute de service, l'action récursoire",
+    "cas": 4,
+    "debut": 120,
+    "fin": 122
+   },
+   {
+    "lecon": 17,
+    "titre": "La responsabilité pénale et la constitution de partie civile",
+    "cas": 4,
+    "debut": 123,
+    "fin": 128
+   },
+   {
+    "lecon": 18,
+    "titre": "La protection fonctionnelle",
+    "cas": 4,
+    "debut": 129,
+    "fin": 132
+   },
+   {
+    "lecon": 19,
+    "titre": "Les différentes responsabilités",
+    "cas": 4,
+    "debut": 133,
+    "fin": 145
+   },
+   {
+    "lecon": 20,
+    "titre": "Fin de chapitre",
+    "cas": 0,
+    "debut": 146,
+    "fin": 146
+   }
+  ]
+ },
+ {
+  "chapitre": 4,
+  "titre": "Promouvoir les talents et organiser les carrières",
+  "pages": 196,
+  "cas": [
+   {
+    "cas": 1,
+    "titre": "La mobilité : le cas du départ d'un agent vers le secteur privé"
+   },
+   {
+    "cas": 2,
+    "titre": "Le cumul d'activités : le cas d'un cumul découvert incidemment"
+   },
+   {
+    "cas": 3,
+    "titre": "La mobilité : le cas d'un agent à accompagner"
+   },
+   {
+    "cas": 4,
+    "titre": "La formation professionnelle : le cas du refus d'un congé formation"
+   },
+   {
+    "cas": 5,
+    "titre": "La promotion professionnelle : le cas d'un service à mobiliser"
+   },
+   {
+    "cas": 6,
+    "titre": "L'évaluation individuelle : le cas d'un service aux pratiques hétéroclites"
+   },
+   {
+    "cas": 7,
+    "titre": "La gestion des contractuels : le cas du recrutement dans une structure déconcentrée"
+   },
+   {
+    "cas": 8,
+    "titre": "L'innovation managériale"
+   }
+  ],
+  "lecons": [
+   {
+    "lecon": 1,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 1,
+    "debut": 4,
+    "fin": 6
+   },
+   {
+    "lecon": 2,
+    "titre": "Le droit à la mobilité",
+    "cas": 1,
+    "debut": 7,
+    "fin": 12
+   },
+   {
+    "lecon": 3,
+    "titre": "Les positions statutaires",
+    "cas": 1,
+    "debut": 13,
+    "fin": 20
+   },
+   {
+    "lecon": 4,
+    "titre": "La Haute Autorité pour la transparence de la vie publique",
+    "cas": 1,
+    "debut": 21,
+    "fin": 32
+   },
+   {
+    "lecon": 5,
+    "titre": "Les règles de réintégration après mobilité",
+    "cas": 1,
+    "debut": 33,
+    "fin": 36
+   },
+   {
+    "lecon": 6,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 2,
+    "debut": 37,
+    "fin": 39
+   },
+   {
+    "lecon": 7,
+    "titre": "Le principe d'exercice exclusif de ses fonctions et ses aménagements",
+    "cas": 2,
+    "debut": 40,
+    "fin": 48
+   },
+   {
+    "lecon": 8,
+    "titre": "La HATVP et le référent déontologue",
+    "cas": 2,
+    "debut": 49,
+    "fin": 53
+   },
+   {
+    "lecon": 9,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 3,
+    "debut": 54,
+    "fin": 55
+   },
+   {
+    "lecon": 10,
+    "titre": "La mutation et l'intégration directe",
+    "cas": 3,
+    "debut": 56,
+    "fin": 67
+   },
+   {
+    "lecon": 11,
+    "titre": "Les orientations générales en matière de mutation et de mobilité et la publication des emplois",
+    "cas": 3,
+    "debut": 68,
+    "fin": 72
+   },
+   {
+    "lecon": 12,
+    "titre": "Les acteurs de la mobilité",
+    "cas": 3,
+    "debut": 73,
+    "fin": 75
+   },
+   {
+    "lecon": 13,
+    "titre": "L'accompagnement financier à la mobilité",
+    "cas": 3,
+    "debut": 76,
+    "fin": 82
+   },
+   {
+    "lecon": 14,
+    "titre": "Les aides au départ volontaire",
+    "cas": 3,
+    "debut": 83,
+    "fin": 91
+   },
+   {
+    "lecon": 15,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 4,
+    "debut": 92,
+    "fin": 94
+   },
+   {
+    "lecon": 16,
+    "titre": "Les outils et modalités de formation",
+    "cas": 4,
+    "debut": 95,
+    "fin": 102
+   },
+   {
+    "lecon": 17,
+    "titre": "La période de professionnalisation",
+    "cas": 4,
+    "debut": 103,
+    "fin": 104
+   },
+   {
+    "lecon": 18,
+    "titre": "Les outils complémentaires de la formation",
+    "cas": 4,
+    "debut": 105,
+    "fin": 109
+   },
+   {
+    "lecon": 19,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 5,
+    "debut": 110,
+    "fin": 112
+   },
+   {
+    "lecon": 20,
+    "titre": "Les concours et promotions",
+    "cas": 5,
+    "debut": 113,
+    "fin": 126
+   },
+   {
+    "lecon": 21,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 6,
+    "debut": 127,
+    "fin": 129
+   },
+   {
+    "lecon": 22,
+    "titre": "L'entretien professionnel annuel",
+    "cas": 6,
+    "debut": 130,
+    "fin": 135
+   },
+   {
+    "lecon": 23,
+    "titre": "La préparation et la conduite de l'entretien professionnel",
+    "cas": 6,
+    "debut": 136,
+    "fin": 139
+   },
+   {
+    "lecon": 24,
+    "titre": "Les voies de recours offertes à l'agent",
+    "cas": 6,
+    "debut": 140,
+    "fin": 142
+   },
+   {
+    "lecon": 25,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 7,
+    "debut": 143,
+    "fin": 145
+   },
+   {
+    "lecon": 26,
+    "titre": "Le recours au contrat, une exception au statut largement répandue",
+    "cas": 7,
+    "debut": 146,
+    "fin": 152
+   },
+   {
+    "lecon": 27,
+    "titre": "Les règles de gestion des contractuels",
+    "cas": 7,
+    "debut": 153,
+    "fin": 163
+   },
+   {
+    "lecon": 28,
+    "titre": "Le licenciement",
+    "cas": 7,
+    "debut": 164,
+    "fin": 171
+   },
+   {
+    "lecon": 29,
+    "titre": "Le reclassement",
+    "cas": 7,
+    "debut": 172,
+    "fin": 181
+   },
+   {
+    "lecon": 30,
+    "titre": "Énoncé du cas (contexte)",
+    "cas": 8,
+    "debut": 182,
+    "fin": 184
+   },
+   {
+    "lecon": 31,
+    "titre": "Les outils à la main des managers",
+    "cas": 8,
+    "debut": 185,
+    "fin": 189
+   },
+   {
+    "lecon": 32,
+    "titre": "L'accompagnement au changement d'organisation",
+    "cas": 8,
+    "debut": 190,
+    "fin": 196
+   }
+  ]
+ }
+]
