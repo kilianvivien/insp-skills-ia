@@ -42,7 +42,7 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 | **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
 | **🏛️ Cas pratiques RH** | Résoudre, corriger et s’entraîner sur les cas pratiques RH et de management public, avec le cours INSP et Légifrance. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**<br>[Guide](skills/cas-pratique-rh/README.md#installation) · [Exemples](skills/cas-pratique-rh/README.md#exemples-de-demandes) |
 
-*Ces skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien) ; Cas pratiques RH est adaptée d’un prompt de Faustin Chabagno. Les prochaines contributions afficheront également leur auteur.*
+*Ces skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien). Les prochaines contributions afficheront également leur auteur.*
 
 > **💡 Après le téléchargement**  
 > Le ZIP est un fichier qui regroupe les éléments de la skill. Ouvrez le **Guide** pour savoir
