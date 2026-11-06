@@ -13,8 +13,12 @@ restreindre cette fonction. [Source : utiliser les skills dans Claude](https://s
 
 ## 2. Préparer le ZIP complet
 
-Téléchargez la skill depuis le catalogue. Le ZIP à importer doit contenir **un dossier de skill**,
-avec `SKILL.md` et toutes ses références à l'intérieur.
+**Le plus simple : téléchargez le fichier `.skill`** proposé dans le catalogue pour chaque skill.
+Il contient déjà un seul dossier complet ; importez-le tel quel à l'étape 3 et passez directement
+à la suite.
+
+Si vous utilisez le ZIP, il doit contenir **un dossier de skill**, avec `SKILL.md` et toutes ses
+références à l'intérieur.
 
 - **Factiva v3 :** l'archive fournie a déjà cette structure.
 - **Légistique v0.5.1 :** décompressez l'archive, puis recompressez uniquement le dossier
@@ -30,7 +34,7 @@ sur Mac et Windows. Cette organisation de l'archive est demandée par
 2. Activez **Exécution de code et création de fichiers / Code execution and file creation**.
 3. Ouvrez **Personnaliser → Skills / Customize → Skills**.
 4. Cliquez sur **+**, puis **Créer une skill / + Create skill**.
-5. Choisissez **Importer une skill / Upload a skill** et sélectionnez le ZIP préparé.
+5. Choisissez **Importer une skill / Upload a skill** et sélectionnez le fichier `.skill` ou le ZIP préparé.
 6. Attendez son apparition dans la liste, puis mettez son interrupteur sur **activé**.
 
 Dans un compte Team ou Enterprise, si ces réglages sont indisponibles, un responsable doit vérifier

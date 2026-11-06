@@ -9,12 +9,13 @@ avec ses instructions : ils font partie de la méthode.
 
 | Skill | Téléchargement | Dossier à récupérer après décompression |
 |:---|:---|:---|
-| Légistique française | [⬇ ZIP de la dernière version](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip) | `legistique-fr` |
-| Factiva Research | [⬇ ZIP de la version fournie par l'auteur](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip) | `factiva-research` |
+| Légistique française | [⬇ ZIP de la dernière version](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip) · [⬇ .skill](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.skill) | `legistique-fr` |
+| Factiva Research | [⬇ ZIP de la version fournie par l'auteur](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip) · [⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.skill) | `factiva-research` |
 
-Le ZIP regroupe plusieurs fichiers en un seul téléchargement. Choisissez ici **ZIP**, plutôt que
-`.skill`, pour suivre les mêmes étapes sur les quatre outils. Ne changez pas simplement l'extension
-d'un fichier pour tenter de le rendre compatible.
+Le ZIP regroupe plusieurs fichiers en un seul téléchargement. Choisissez **ZIP** pour suivre les
+mêmes étapes sur les quatre outils. Le fichier **`.skill`** contient uniquement le dossier de la
+skill : avec Claude, importez-le tel quel, sans le décompresser ni le recompresser. Ne changez pas
+vous-même l'extension d'un fichier pour tenter de le rendre compatible.
 
 ## 2. Ouvrir l'archive
 

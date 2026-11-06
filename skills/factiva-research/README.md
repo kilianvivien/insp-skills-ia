@@ -6,7 +6,7 @@ Créée par [Kilian Vivien](https://github.com/kilianvivien), cette skill aide u
 exécuter lorsque les outils le permettent, affiner et documenter des recherches avancées dans Factiva.
 Elle est publiée ici à partir de l’archive `factiva-research-v3.zip` fournie par l’auteur.
 
-**[⬇ Télécharger Factiva Research — ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**
+**[⬇ Télécharger Factiva Research — ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)** · **[⬇ .skill pour Claude](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.skill)**
 
 [Installation](#installation) · [Exemples](#exemples-de-demandes) · [Instructions](SKILL.md)
 
@@ -30,7 +30,7 @@ accès. Les possibilités de contrôle du navigateur dépendent de votre agent e
 
 ## Installation
 
-1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**.
+1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**, ou au **[format .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.skill)** pour l’importer directement dans Claude.
 2. Choisissez votre tutoriel : **[ChatGPT](../../tutoriels/chatgpt.md)** · **[Claude](../../tutoriels/claude.md)** · **[Gemini](../../tutoriels/gemini.md)** · **[Mistral Vibe](../../tutoriels/mistral-vibe.md)**.
 3. Suivez sa méthode : import d’archive, import de dossier ou adaptation selon les fonctions de votre compte.
 4. Faites le test de lecture des références proposé à la fin du guide.

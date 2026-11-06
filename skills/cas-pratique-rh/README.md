@@ -7,7 +7,7 @@ cette skill aide un agent IA à traiter une situation RH comme l'attend un corre
 juridiquement exacte, sourcée à la page du cours et à l'article près, ancrée dans les faits de
 l'énoncé, et décidée par la bonne autorité.
 
-**[⬇ Télécharger Cas pratiques RH — ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**
+**[⬇ Télécharger Cas pratiques RH — ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)** · **[⬇ .skill pour Claude](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.skill)**
 
 [Installation](#installation) · [Le cours INSP](#le-cours-insp-à-ajouter-vous-même) · [Exemples](#exemples-de-demandes) · [Instructions](SKILL.md)
 
@@ -57,7 +57,7 @@ les PDF à la conversation.
 
 ## Installation
 
-1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**.
+1. **[Téléchargez la skill au format ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**, ou au **[format .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.skill)** pour l'importer directement dans Claude.
 2. Choisissez votre tutoriel : **[ChatGPT](../../tutoriels/chatgpt.md)** · **[Claude](../../tutoriels/claude.md)** · **[Gemini](../../tutoriels/gemini.md)** · **[Mistral Vibe](../../tutoriels/mistral-vibe.md)**.
 3. Si votre outil le permet, ajoutez le texte du cours (voir ci-dessus).
 

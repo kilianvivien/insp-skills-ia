@@ -38,15 +38,17 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 | Outil | À quoi sert-il ? | Télécharger et découvrir |
 |:---|:---|:---|
-| **⚖️ Légistique française** | Rédiger, corriger et analyser des textes juridiques. | **[⬇ Télécharger le ZIP](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip)**<br>[Guide](https://github.com/kilianvivien/skill-legistique-fr#-installation) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
-| **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
-| **🏛️ Cas pratiques RH** | Résoudre, corriger et s’entraîner sur les cas pratiques RH et de management public, avec le cours INSP et Légifrance. | **[⬇ Télécharger le ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)**<br>[Guide](skills/cas-pratique-rh/README.md#installation) · [Exemples](skills/cas-pratique-rh/README.md#exemples-de-demandes) |
+| **⚖️ Légistique française** | Rédiger, corriger et analyser des textes juridiques. | **[⬇ ZIP](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip)** · **[⬇ .skill](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.skill)**<br>[Guide](https://github.com/kilianvivien/skill-legistique-fr#-installation) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
+| **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.skill)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
+| **🏛️ Cas pratiques RH** | Résoudre, corriger et s’entraîner sur les cas pratiques RH et de management public, avec le cours INSP et Légifrance. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.skill)**<br>[Guide](skills/cas-pratique-rh/README.md#installation) · [Exemples](skills/cas-pratique-rh/README.md#exemples-de-demandes) |
 
 *Ces skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien). Les prochaines contributions afficheront également leur auteur.*
 
 > **💡 Après le téléchargement**  
-> Le ZIP est un fichier qui regroupe les éléments de la skill. Ouvrez le **Guide** pour savoir
-> comment l’ajouter à votre assistant IA, ou suivez les [tutoriels par outil](tutoriels/README.md). Le téléchargement seul ne l’active pas.
+> Le ZIP est un fichier qui regroupe les éléments de la skill. Le fichier **.skill** contient
+> uniquement le dossier de la skill, prêt à importer directement dans Claude, sans le recompresser.
+> Ouvrez le **Guide** pour savoir comment l’ajouter à votre assistant IA, ou suivez les
+> [tutoriels par outil](tutoriels/README.md). Le téléchargement seul ne l’active pas.
 
 <details>
 <summary>🔎 Ce que chaque outil vous apporte</summary>
