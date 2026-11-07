@@ -34,13 +34,15 @@ Vous gardez la responsabilité de relire le résultat et de vérifier les inform
 
 ## 📚 Les outils disponibles
 
-**Trois outils pour commencer.** Choisissez votre besoin, téléchargez la skill, puis suivez son guide.
+**Cinq outils pour commencer.** Choisissez votre besoin, téléchargez la skill, puis suivez son guide.
 
 | Outil | À quoi sert-il ? | Télécharger et découvrir |
 |:---|:---|:---|
 | **⚖️ Légistique française** | Rédiger, corriger et analyser des textes juridiques. | **[⬇ ZIP](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.zip)** · **[⬇ .skill](https://github.com/kilianvivien/skill-legistique-fr/releases/latest/download/legistique-fr.skill)**<br>[Guide](https://github.com/kilianvivien/skill-legistique-fr#-installation) · [Exemples](https://github.com/kilianvivien/skill-legistique-fr/tree/main/exemples) |
 | **📰 Factiva Research** | Préparer et améliorer une recherche d’articles de presse dans Factiva. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/factiva-research-v3.skill)**<br>[Guide](skills/factiva-research/README.md#installation) · [Exemples](skills/factiva-research/README.md#exemples-de-demandes) |
 | **🏛️ Cas pratiques RH** | Résoudre, corriger et s’entraîner sur les cas pratiques RH et de management public, avec le cours INSP et Légifrance. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/cas-pratique-rh-v2.1.skill)**<br>[Guide](skills/cas-pratique-rh/README.md#installation) · [Exemples](skills/cas-pratique-rh/README.md#exemples-de-demandes) |
+| **👤 Biographies administratives** | Rédiger une note biographique sourcée (.docx) pour préparer un entretien, une réunion ou une visite. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/bio-admin-v1.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/bio-admin-v1.skill)**<br>[Guide](skills/bio-admin/README.md#installation) · [Exemples](skills/bio-admin/README.md#exemples-de-demandes) |
+| **🌐 Traduction PDF** | Traduire un PDF et produire un document mis en page, avec page de garde et sommaire. | **[⬇ ZIP](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/pdf-translate-format-v1.zip)** · **[⬇ .skill](https://raw.githubusercontent.com/kilianvivien/insp-skills-ia/main/downloads/pdf-translate-format-v1.skill)**<br>[Guide](skills/pdf-translate-format/README.md#installation) · [Exemples](skills/pdf-translate-format/README.md#exemples-de-demandes) |
 
 *Ces skills sont proposées par [Kilian Vivien](https://github.com/kilianvivien). Les prochaines contributions afficheront également leur auteur.*
 
@@ -66,6 +68,13 @@ Vous devez disposer de votre propre accès Factiva ; la skill ne fournit pas d�
 correction de copie ou un cas d’entraînement. Chaque règle est citée avec sa page du cours ou son
 lien Légifrance. Le texte du cours INSP n’est pas fourni : chaque élève l’ajoute à partir de ses PDF.
 
+**Biographies administratives** recherche et recoupe les informations (Journal officiel, sites
+officiels, presse) puis rédige une biographie de 20 à 30 lignes au format Word, avec ses sources.
+L’assistant doit pouvoir chercher sur le web et créer un fichier .docx.
+
+**Traduction PDF** convertit un PDF en texte, le traduit avec un glossaire et génère un PDF
+avec page de garde et sommaire. Elle demande un assistant capable d’exécuter Python et Node.js.
+
 </details>
 
 <details>
@@ -86,7 +95,7 @@ lien Légifrance. Le texte du cours INSP n’est pas fourni : chaque élève l�
 
 </details>
 
-> **Le catalogue commence avec ces trois outils.** Il pourra accueillir d’autres skills pour
+> **Le catalogue commence avec ces cinq outils.** Il pourra accueillir d’autres skills pour
 > préparer une note, analyser des données, créer une présentation, travailler les langues
 > ou explorer d’autres usages utiles au service public.
 
@@ -174,7 +183,7 @@ Ce catalogue n’est pas une publication officielle de l’INSP.
 
 Les textes de présentation du catalogue sont proposés sous [licence MIT](LICENSE), qui précise
 leurs conditions de réutilisation. Chaque skill conserve ses propres conditions. Les archives fournies
-pour Factiva Research et Cas pratiques RH ne précisent pas de licence ; la licence du catalogue ne
+pour Factiva Research, Cas pratiques RH, Biographies administratives et Traduction PDF ne précisent pas de licence ; la licence du catalogue ne
 leur est pas appliquée automatiquement.
 
 <div align="center">
